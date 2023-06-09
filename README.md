@@ -1,3 +1,5 @@
+:warning: This deceased repo is now continued at [OlivierBeq/ml2json](https://github.com/OlivierBeq/ml2json).
+
 # sklearn-json
 Export scikit-learn model files to JSON for sharing or deploying predictive models with peace of mind.
 
